@@ -1,2 +1,2 @@
 # hrsubmissions
-Code submissions to HackerRank exercises
+My C code submissions to HackerRank exercises. All rights reserved
